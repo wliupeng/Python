@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 # Liupeng's Python Shell
 # Network device Xunjian
-
+#liupeng teststest
 import telnetlib,time
 tn = telnetlib.Telnet('1.1.1.1',23)
 tn.write(b'admin\n')
